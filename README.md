@@ -1,5 +1,5 @@
 # Text-Detection-in-Natural-Images
-CS200 B.Tech Minor Project. (Jan 2017- Apr 2017)
+CS200 B.Tech Minor Project. 
 
 
 1. Recommended to read the Report under 'master' branch to know about the project in detail.
